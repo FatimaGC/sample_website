@@ -1,7 +1,45 @@
+blockquote {
+  font-size: 20px;
+  font-style: italic;
+}
+
+header {
+  margin: 0 0 80px;
+  text-align: center;
+}
+
 .nav-menu {
   text-align: right;
 }
 
 .nav-spacing {
   margin: 0 0 0 10px;
+}
+
+.image-link {
+  text-decoration: none;
+}
+
+.quote-intro {
+  color: red;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: bold;
+}
+
+.report-container {
+  background-color: #fafafa;
+  margin: 20px auto;
+  padding: 30px;
+  width: 500px;
+}
+
+.report-container__image {
+  float: left;
+  margin-right: 40px;
+  height: 200px;
+}
+
+.tabledata-spacing {
+  padding: 20px;
 }
